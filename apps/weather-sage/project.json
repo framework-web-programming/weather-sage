@@ -2,7 +2,7 @@
   "name": "weather-sage",
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
   "projectType": "application",
-  "prefix": "ng-framework-org",
+  "prefix": "ws",
   "sourceRoot": "apps/weather-sage/src",
   "tags": [],
   "targets": {
