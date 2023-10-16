@@ -21,7 +21,7 @@
           "error",
           {
             "type": "element",
-            "prefix": "ng-framework-org",
+            "prefix": "ws",
             "style": "kebab-case"
           }
         ]
